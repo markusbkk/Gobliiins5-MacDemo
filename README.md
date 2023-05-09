@@ -12,4 +12,5 @@
 * Fixed a scripting bug that led to a crash early on
 
 [<img src="download.png" alt="Download from Google Drive">](https://drive.google.com/file/d/1FMC7ZZQjNrLGD0_eK_BtKR2lF0u7NTB9/view?usp=sharing)
+[<img src="youtube.png" alt="Check out my YouTube playthrough">](https://www.youtube.com/watch?v=5FXobMaDqGc&list=PLtwK8RgezTNo4HIHXRFc_s3eRlJCkKDp0)
 ![Screenshot of the .dmg installer](install.jpg)
