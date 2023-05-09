@@ -1,6 +1,4 @@
-# Gobliiins5 Mac Demo
-
-Fresh out of the oven!
+## Fresh out of the oven!
 
 ### Contains:
 * Colorful .dmg
